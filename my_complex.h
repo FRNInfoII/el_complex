@@ -15,4 +15,4 @@ struct my_complex Conjugado(struct my_complex z1);
 //resta
 //multiplicar
 //conjugado
-//dividir
+//dividir falta
