@@ -5,6 +5,8 @@ struct my_complex
     float re;
     float im;
 };
+
+//this modification
 struct my_complex Sumacomplejos(struct my_complex z1,struct my_complex z2);
 struct my_complex Restacomplejos(struct my_complex z1,struct my_complex z2);
 struct my_complex MultiplicaComplejos(struct my_complex z1, struct my_complex z2);
